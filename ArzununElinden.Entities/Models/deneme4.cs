@@ -8,5 +8,6 @@ namespace ArzununElinden.Entities.Models
 {
     class deneme4
     {//deneme4
+        //mesut
     }
 }

@@ -46,6 +46,7 @@
     <Compile Include="Models\Addresses.cs" />
     <Compile Include="Models\Categories.cs" />
     <Compile Include="Models\Comments.cs" />
+    <Compile Include="Models\deneme4.cs" />
     <Compile Include="Models\Images.cs" />
     <Compile Include="Models\Person.cs" />
     <Compile Include="Models\PersonInfo.cs" />
