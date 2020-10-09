@@ -19,7 +19,7 @@ namespace ArzununElinden.Entities.Models
         public string CategoryName { get; set; }
         public int ImageID { get; set; }
 
-        public virtual Product Product { get; set; }
+        public virtual ICollection<Product> Product { get; set; }
         public virtual ICollection<Recipe> Recipes { get; set; }
     }
 }

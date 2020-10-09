@@ -50,6 +50,7 @@
     <Compile Include="Models\Person.cs" />
     <Compile Include="Models\PersonInfo.cs" />
     <Compile Include="Models\Product.cs" />
+    <Compile Include="Models\ProductCategories.cs" />
     <Compile Include="Models\Recipe.cs" />
     <Compile Include="Models\RecipeCategories.cs" />
     <Compile Include="Models\Roles.cs" />

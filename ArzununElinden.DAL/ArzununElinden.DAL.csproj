@@ -58,6 +58,8 @@
     <Compile Include="Abstract\IProductDAL.cs" />
     <Compile Include="Abstract\IRecipeDAL.cs" />
     <Compile Include="Abstract\IRolesDAL.cs" />
+    <Compile Include="Concrete\EntityFramework\Mapping\AddressMapping.cs" />
+    <Compile Include="Concrete\EntityFramework\Mapping\CategoriesMapping.cs" />
     <Compile Include="Concrete\EntityFramework\ProjectDBContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -73,7 +75,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Concrete\EntityFramework\DAL\" />
-    <Folder Include="Concrete\EntityFramework\Mapping\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
