@@ -7,6 +7,6 @@ using System.Threading.Tasks;
 namespace ArzununElinden.Entities.Models
 {
     public class sondeneme
-    {//mesutcanelbirlik
+    {//mesutcanelbirlik123
     }
 }
