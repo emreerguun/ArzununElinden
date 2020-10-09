@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 namespace ArzununElinden.Entities.Models
 {
     public class sondeneme
-    {//mesutcanelbirlik123
+    {
+        //mesutcanelbirlik123
+
+        //denemeemre
     }
 }
